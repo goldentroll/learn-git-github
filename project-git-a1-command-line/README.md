@@ -4,6 +4,8 @@
 In this project you need to know following topics:
 ls Filesystem pwd cd I cd II mkdir touch Review
 
+If you are not familier with them please read Learn Git and Github eBook from (https://codingwithbasir.com/learn-git-github)
+
 ## Project Definition
 Create a folder and file
 1. Create a folder with you name in this folder.
