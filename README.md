@@ -1,57 +1,70 @@
 # Learn Git and Github
-Learn Git and Github by Basir JD Mentorship
+
+- Download Free eBook: https://codingwithbasir.com/download
+- Fork and Clone This repository
+- Code Project A1
+- Send a Pull Request
+- Let me know to review your code: [basir.jafaradeh@gmail.com](mailto:basir.jafaradeh@gmail.com)
 
 ## COMMAND LINE
-ls
-Filesystem
-pwd
-cd I
-cd II
-mkdir
-touch
-Review
+
+[Project A1: Manual Tests](project-tdd-javascript-a1-manual-tests)
+
+- ls
+- Filesystem
+- pwd
+- cd I
+- cd II
+- mkdir
+- touch
+
 ## INTRODUCTION TO GIT
-git init
-Git Workflow
-git status
-git add
-git diff
-git commit
-git log
-Review
+
+- git init
+- Git Workflow
+- git status
+- git add
+- git diff
+- git commit
+- git log
+
 ## HOW TO BACKTRACK
-head commit
-git checkout
-more git add
-git reset I
-git reset II
-Review
+
+- head commit
+- git checkout
+- more git add
+- git reset I
+- git reset II
+
 ## GIT BRANCHING
-branching overview
-git checkout
-commit on a new branch
-git merge
-merge conflict I
-merge conflict II
-delete branch
-Review
+
+- branching overview
+- git checkout
+- commit on a new branch
+- git merge
+- merge conflict I
+- merge conflict II
+- delete branch
+
 ## GIT TEAMWORK
-git clone
-git remote -v
-git fetch
-git merge
-Git workflow
-git push
-Review
+
+- git clone
+- git remote -v
+- git fetch
+- git merge
+- Git workflow
+- git push
+
 ## GITHUB
-What is GitHub?
-Create a GitHub Account
-Git Setup for Mac
-Git Setup for Windows
-Connect to GitHub through ssh
-Check for existing keys
-Generating a new SSH key
-Adding SSH key to the ssh-agent
-Adding the SSH key to your GitHub account
-Try It Out!
-Your First Remote Repository on GitHub
+
+- What is GitHub?
+- Create a GitHub Account
+- Git Setup for Mac
+- Git Setup for Windows
+- Connect to GitHub through ssh
+- Check for existing keys
+- Generating a new SSH key
+- Adding SSH key to the ssh-agent
+- Adding the SSH key to your GitHub account
+- Try It Out!
+- Your First Remote Repository on GitHub
