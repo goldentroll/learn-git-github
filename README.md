@@ -8,7 +8,7 @@
 
 ## COMMAND LINE
 
-[Project A1: Manual Tests](project-tdd-javascript-a1-manual-tests)
+[Project A1: Backup Files](project-git-a1-command-line)
 
 - ls
 - Filesystem
@@ -19,6 +19,8 @@
 - touch
 
 ## INTRODUCTION TO GIT
+
+[Project B1: Creat Repo](project-git-a1-command-line)
 
 - git init
 - Git Workflow
